@@ -1,4 +1,3 @@
-README.md
 
 How to run this website locally on your device:
 
