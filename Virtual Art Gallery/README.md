@@ -15,6 +15,8 @@ write next to the >npx vite
 
 5- Go to your Chrome and Go to this link localhost/Code/About.php
 
+This is almost complete other then imges display in the home and the profiles 😂
+
 **Website home page:**
 ![website](https://github.com/user-attachments/assets/6d390427-4f0a-486c-9fc6-8d603b266aad)
 
@@ -22,7 +24,7 @@ write next to the >npx vite
 **The virtual Exhibition experience:**
 ![VirtualExbhtion](https://github.com/user-attachments/assets/53a09c41-7f62-456d-96c1-6eee40711087)
 
-\
+
 
 ![Screenshot 2024-09-14 020339](https://github.com/user-attachments/assets/91eb5af7-a8b9-4d46-8821-57198bcd4611)
 
