@@ -8,8 +8,8 @@ for them
 ![image](https://github.com/user-attachments/assets/f3f77039-7ee1-49f5-88d5-4dad1d37925a)
 
 
-**About Page**
-*It have an introduction the website and the tools used for it*
+**About Page**__
+It have an introduction the website and the tools used for it
 ![image](https://github.com/user-attachments/assets/3712c53b-aa55-4a32-af3c-9d3a5a5d9436)
 
 
