@@ -9,7 +9,7 @@ for them
 
 
 **About Page**
-!\n It have an introduction the website and the tools used for it
+*It have an introduction the website and the tools used for it*
 ![image](https://github.com/user-attachments/assets/3712c53b-aa55-4a32-af3c-9d3a5a5d9436)
 
 
