@@ -15,7 +15,7 @@ write next to the >npx vite
 
 5- Go to your Chrome and Go to this link localhost/Code/About.php
 
-This is almost complete other then imges display in the home and the profiles 😂
+This is almost complete it have database different type of users and virtual exhibition using Three.js other then imges display in the home and the profiles 😂
 
 **Website home page:**
 ![website](https://github.com/user-attachments/assets/6d390427-4f0a-486c-9fc6-8d603b266aad)
