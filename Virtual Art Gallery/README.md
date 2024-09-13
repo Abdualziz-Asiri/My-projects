@@ -22,9 +22,10 @@ write next to the >npx vite
 **The virtual Exhibition experience:**
 ![VirtualExbhtion](https://github.com/user-attachments/assets/53a09c41-7f62-456d-96c1-6eee40711087)
 
-![image](https://github.com/user-attachments/assets/03be0bb4-4e40-4c74-80a6-5dd18106ea71)
+\
 
-![image](https://github.com/user-attachments/assets/60310c58-2623-4790-ac00-e7ce5b5115a3)
+![Screenshot 2024-09-14 020339](https://github.com/user-attachments/assets/91eb5af7-a8b9-4d46-8821-57198bcd4611)
+
 
 
 
