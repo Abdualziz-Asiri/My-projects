@@ -1,3 +1,6 @@
+This website idea is to make artists and art enthusiasts  have a place to share there art sell and buy.
+Virtual Exhibition is should add as an event to have chance to show there art in Virtual reality to give a new experience to admire art.
+
 
 How to run this website locally on your device:
 
